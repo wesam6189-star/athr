@@ -1,0 +1,26 @@
+{
+  "name": "برنامج أثر — منصة النقاط والدراهم",
+  "short_name": "برنامج أثر",
+  "description": "منصة التقييم السلوكي والعلمي المباشر لطلاب برنامج أثر",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f3460",
+  "theme_color": "#0f3460",
+  "orientation": "portrait-primary",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
